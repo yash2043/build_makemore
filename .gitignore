@@ -1,2 +1,8 @@
 # venv
 venv/
+
+# mlflow artifacts
+mlflow.db
+mlruns/
+*.pt
+weights/
